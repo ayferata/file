@@ -1,7 +1,7 @@
 # file
 import java.io.File;
 
-public class PatikaDev {
+public class Patika {
     public static void main(String[] args) {
 
         File file = new File("patika.txt");
